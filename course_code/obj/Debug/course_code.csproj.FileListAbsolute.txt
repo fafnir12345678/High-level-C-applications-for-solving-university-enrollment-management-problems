@@ -1,0 +1,10 @@
+C:\google disk\вуз\курсовые\курсовая 2 курс 1 симестр\course_code\obj\Debug\course_code.csproj.AssemblyReference.cache
+C:\google disk\вуз\курсовые\курсовая 2 курс 1 симестр\course_code\obj\Debug\course_code.Form1.resources
+C:\google disk\вуз\курсовые\курсовая 2 курс 1 симестр\course_code\obj\Debug\course_code.Properties.Resources.resources
+C:\google disk\вуз\курсовые\курсовая 2 курс 1 симестр\course_code\obj\Debug\course_code.csproj.GenerateResource.cache
+C:\google disk\вуз\курсовые\курсовая 2 курс 1 симестр\course_code\obj\Debug\course_code.csproj.CoreCompileInputs.cache
+C:\google disk\вуз\курсовые\курсовая 2 курс 1 симестр\course_code\bin\Debug\course_code.exe.config
+C:\google disk\вуз\курсовые\курсовая 2 курс 1 симестр\course_code\bin\Debug\course_code.exe
+C:\google disk\вуз\курсовые\курсовая 2 курс 1 симестр\course_code\bin\Debug\course_code.pdb
+C:\google disk\вуз\курсовые\курсовая 2 курс 1 симестр\course_code\obj\Debug\course_code.exe
+C:\google disk\вуз\курсовые\курсовая 2 курс 1 симестр\course_code\obj\Debug\course_code.pdb
